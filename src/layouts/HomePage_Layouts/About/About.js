@@ -13,14 +13,7 @@ function About() {
             </h1>
 
             <p className="font-cream-shoes fs-40px weight-5 white lh-1">
-              Welcome to Kitten Clubhouse, a community-driven project for real
-              good. Not your average cat NFT. Each of the uniquely generated
-              10,000 kittens are not only the cutest on the ETH blockchain, but
-              serve as your ticket into a community built to innovative
-              lifesaving programs designed to save animals most at risk of
-              euthanasia, and to help get you started with your own
-              contributions and projects on web3. But the kittens aren’t
-              stopping there...
+            Welcome to Kitten Clubhouse, a community-driven project for real good. Not your average cat NFT. Each of the uniquely generated 10,000 kittens are not only the cutest on the ETH blockchain, but serve as your ticket into a community built to aid innovative lifesaving programs designed to save animals most at risk of euthanasia, while building one of the strongest NFT gaming & streaming brands to date so we can bring awareness to our cause. But the kittens aren’t stopping there...
             </p>
           </div>
           <div className={styles.right}>

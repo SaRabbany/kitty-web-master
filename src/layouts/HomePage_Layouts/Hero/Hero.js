@@ -11,13 +11,13 @@ function Hero() {
   return (
     <div className={styles.container}>
       <div className="container-wrapper">
-        <div className={styles.wrapper}>
-          <div className={styles.content}>
+        <div className={styles.wrapper} >
+          <div className={styles.content} >
             <div className="mb-40px">
               <h1 className="fs-66px weight-4 mb-20px">
                 Unleash...the kittens
               </h1>
-              <p className="font-cream-shoes fs-40px weight-5 lh-1">
+            <p className="font-cream-shoes fs-40px weight-5 lh-1 text-justify hero-content" style={{'width': '450px'} }>
                 The kittens are about to storm the blockchain! On February 27th
                 we open access to the Kitten Clubhouse. Join the kittens and
                 enjoy the benefits of being a part of our community! 10k NFTs,
@@ -26,7 +26,7 @@ function Hero() {
             </div>
 
             <div className={styles.btns}>
-              <button className="button-pink fs-40px weight-4 pointer radius-26px lh-1">
+              <button className="button-pink fs-40px  weight-4 pointer radius-26px lh-1">
                 <span className="flex">
                   <FaDiscord size={isBellow1000 ? 35 : 48} />
                 </span>

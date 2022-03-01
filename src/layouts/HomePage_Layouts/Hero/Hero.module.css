@@ -1,0 +1,122 @@
+.container {
+  background-color: #83fec1;
+}
+.wrapper {
+  height: 100vh;
+  max-height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  position: relative;
+  z-index: 10;
+}
+
+.content {
+  max-width: 609px;
+  width: 100%;
+}
+
+.hero_kitty {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  min-width: 100%;
+  left: 0px;
+  z-index: 5;
+  object-fit: contain;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  position: relative;
+  z-index: 10;
+}
+
+.btns > button,
+.btns > a {
+  padding: 0 20px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  justify-content: center;
+}
+
+.btns > button > span {
+  margin-right: 0.8rem;
+}
+
+.btns > button:not(:last-child) {
+  margin-right: 30px;
+}
+
+@media (max-width: 1300px) {
+  .hero_kitty {
+    width: 30%;
+  }
+
+  .btns {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .wrapper {
+    height: unset;
+    max-height: unset;
+
+    justify-content: unset;
+    flex-direction: column;
+    align-items: unset;
+    padding-top: 120px;
+  }
+
+  .hero_kitty {
+    position: static;
+    margin: 0 auto;
+    max-width: 300px;
+    margin-left: 26%;
+  }
+
+  .content {
+    max-width: 100%;
+  }
+
+  .btns > button,
+  .btns > a {
+    padding: 0 30px;
+    height: 70px;
+  }
+}
+
+@media (max-width: 500px) {
+  .wrapper {
+    padding-top: 95px;
+  }
+
+  .btns > button,
+  .btns > a {
+    padding: 0 16px;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+  }
+
+  .btns > button:not(:last-child) {
+    margin-right: 16px;
+  }
+
+  .btns > button > span {
+    margin-right: 0.5rem;
+  }
+
+  .btns {
+    padding: 0 0rem;
+  }
+}

@@ -1,0 +1,52 @@
+.wrapper {
+  background: linear-gradient(180deg, #ffefb7 0%, #ffbadf 100%);
+  position: relative;
+}
+.cards {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+}
+.card > p {
+  width: 4.8em;
+}
+.content {
+  max-width: 311px;
+  width: 100%;
+  padding: 1rem 1.5rem;
+  background: #ffffff;
+  border: 5px solid #000000;
+}
+.Sleeping_yellow {
+  width: 176.17px;
+  margin-top: 100px;
+}
+
+@media (max-width: 880px) {
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .content {
+    max-width: 100%;
+  }
+  .card > p {
+    width: 130px;
+  }
+
+  .card {
+    align-items: unset;
+  }
+}
+
+@media (max-width: 500px) {
+  .content {
+    padding: 0.5rem 1rem;
+  }
+}

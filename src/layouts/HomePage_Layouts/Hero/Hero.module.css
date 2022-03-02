@@ -21,9 +21,9 @@
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 80%;
+  height: 86%;
   min-width: 80%;
-  left: 0px;
+  left: -15px;
   z-index: 5;
   object-fit: contain;
 }

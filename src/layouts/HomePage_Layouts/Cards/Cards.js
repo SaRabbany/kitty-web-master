@@ -12,19 +12,19 @@ const Card = ({ title, img, desc, descFontSize = "fs-36px" }) => {
 
   return (
     <div className="text-center">
-      <h1 className="text-center fs-46px black weight-4 mb-30px">{title}</h1>
+      <h1 className="text-center fs-46px black weight-4 mb-10px">{title}</h1>
       <img
         src={img}
         style={{
           width: "100%",
-          maxWidth: isBellow760px ? "100px" : "150px",
-          height: isBellow760px ? "100px" : "150px",
+          maxWidth: isBellow760px ? "100px" : "100px",
+          height: isBellow760px ? "100px" : "100px",
           objectFit: "contain",
         }}
         className="mb-20px"
         alt=""
       />
-      <p className={`text-center ${descFontSize} weight-5 font-cream-shoes`}>
+      <p className={`text-center fs-36px card-content weight-5 font-cream-shoes`} style={{ 'padding':'0px' }} >
         {desc}
       </p>
     </div>
@@ -39,12 +39,12 @@ function Cards() {
           <Card
             title="Charity"
             img={Charitylogo}
-            desc="Voting rights in our very own decentralized charity goverance system. For the kittens!"
+            desc="Voting rights in our very own decentralized charity goverance system. The longer we go, the greater our impact. In the name of kittens!"
           />
           <Card
             title="Tourneys"
             img={Tourneyslogo}
-            desc="Be able to participate in community-wide Twitch streamed gaming touneys with tasty eth prizes. Real tasty."
+            desc="Participate in regularly Twitch-streamed gaming touneys with tasty eth prizes. Tournaments will vary in scope, scale, games, game types, and skill level, so all gamers can have fun and have a chance to win big!"
           />
           <Card
             title="Merch"
@@ -52,10 +52,10 @@ function Cards() {
             desc="Access to exclusive merch. Merch that’s actually cool. Some unique to your Kitten Clubhouse NFTs...we’ll explain later."
           />
           <Card
-            title="Alpha"
+            title="Twitch"
             img={Alphalogo}
-            desc="Your ticket into a community built to help each other innovate and build their own projects on web3, and to also help guide each other through the NFT/crypto journey.. Everyone eats."
-            descFontSize="fs-28px"
+            desc="Join us in building out one of the strongest NFT gaming & streaming community ecosystems to date from scratch. We will use this platform for awareness, community events, live tournaments, and more."
+            descFontSize="fs-36px"
           />
         </div>
       </div>

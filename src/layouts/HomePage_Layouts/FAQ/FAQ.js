@@ -49,8 +49,8 @@ function FAQ() {
           </Accordion>
           <Accordion title="When will Kitten Clubhouse Launch ?">
             <p className="font-cream-shoes fs-34px black ">
-              The pre-sale will launch on February 18th at 9AM MST and our
-              public sale on February 19th at 9AM MST.
+            The pre-sale and public sale dates are currently TBA. We will note however, that they will
+happen anytime between the end of March to early April.
             </p>
           </Accordion>
           <Accordion title="Why Kitten Clubhouse ?">
@@ -60,48 +60,45 @@ function FAQ() {
 
             <ul className="mb-40px" style={{ paddingLeft: "28px" }}>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                A project that does real good for animals with full
-                transparency, researched partnerships, and picture receipts of
-                the actual animals we’re saving the lives of?
+              A project that does real good for animals with full transparency, researched partnerships, and
+picture receipts of the actual animals we’re saving the lives of?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                A community built for real connections, job opportunities,
-                project help, skillshare, alpha, and help in actually “making
-                it” in this new crypto/NFT journey in the most wholesome way
-                possible?
+              A community built to foster what we aim to execute as to be one of the strongest NFT
+streaming & gaming brands to date in the space?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                Twitch gaming tournaments with eth prizes and regularly
-                scheduled in-house streaming channels?
+              Live Twitch-streamed gaming tournaments of all kinds and skill levels for our holders, every one
+with tasty eth prizes?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                Movie/TV streaming nights with the kittens?
+              Regularly scheduled in-house streaming channels that provide constant entertaining including
+participation from the community?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                Exclusive access to merch drops designed by people who have
-                actually made great looking merch before? Including merch that
-                will be unique to the specific kittens held in your wallet?
+              Movie/TV streaming nights with the kittens?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                The cutest, softest, most-cuddly prone NFT kittens on the
-                blockchain that will appreciate in value over time to make our
-                holders great wealth?
+              Exclusive access to merch drops designed by people who have actually made merch before?
+Including some unique merch based on the Kittens held in your wallet?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                With even greater things to come in a future expanded roadmap
-                reveal, but also at the same time is making realistic promises
-                they can keep?
+              The cutest, softest, most-cuddly prone NFT kittens on the blockchain that will appreciate in
+value over time to help make our holders wealth?
               </li>
               <li className="fs-30px mb-20px black font-cream-shoes lh-1">
-                Opportunities to be a part of the kitten high council and have a
-                say in the direction of the projects with opportunities to work
-                with the project devs?
+              -Even greater things to come in the future Roadmap V.2 reveal, but also at the same time is
+making realistic promises that can and will be kept?
+              </li>
+              <li className="fs-30px mb-20px black font-cream-shoes lh-1">
+              -Opportunities to be a part of the kitten high council (Color Council) and have a say in the
+direction of the projects with opportunities to work with the project team?
               </li>
             </ul>
 
             <p className="font-cream-shoes fs-34px black">
-              Yeah…we could keep going on, but the kittens are getting antsy…we
-              gotta run and get more catnip
+            Yeah...we could keep going on and on, but the kittens are getting bored...we gotta run and get
+more catnip.
             </p>
           </Accordion>
           <Accordion title="What does my Kitten Clubhouse NFT do for me ?">
@@ -114,8 +111,7 @@ function FAQ() {
           </Accordion>
           <Accordion title="What are the mint details ?">
             <p className="font-cream-shoes fs-30px black weight-5">
-              The mint will cost .05 ETH + gas fees for whitelisted wallets, and
-              .09 ETH public sale. Mint date to be revealed.
+            The mint cost per whitelisted wallet and public sales are TBA. Check our Discord for updates.
             </p>
           </Accordion>
           <Accordion title="What if I have more questions ?">

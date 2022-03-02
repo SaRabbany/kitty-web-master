@@ -4,7 +4,15 @@
 .cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 2rem;
+  gap: 4rem;
+}
+
+.cards img{
+  width: 100px !important;
+  height: auto;
+}
+p.card-content {
+  padding: 0 1rem !important;
 }
 
 @media (max-width: 1200px) {

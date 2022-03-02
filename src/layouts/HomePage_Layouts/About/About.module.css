@@ -15,6 +15,10 @@
 }
 .left > p {
   width: 14.2em !important;
+  width: 14.2em !important;
+  /* border: 2px solid red; */
+  line-height: .9;
+  font-size: 2rem;
   /* border: 2px solid red; */
 }
 .right {

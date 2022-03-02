@@ -74,6 +74,12 @@ function Roadmap() {
           >
             <img src={gold_cat} className={styles.gold_cat} alt="" />
           </Card>
+          <Card
+            index="8"
+            desc="We tease the first Kitten Clubhouse roadmap V.2 expansion...this current roadmap has nothing on what’s coming next. 60% is already in the works, 40% to be decided by kitty council chairs + holders (from PHASE 1 expansion workshops). We are here to stay, and are only getting started.
+            "
+            toRight={true}
+          />
         </div>
       </div>
     </div>

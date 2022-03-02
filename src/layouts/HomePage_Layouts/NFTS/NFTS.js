@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
 import styles from "./NFTS.module.css";
-
 import nft1 from "assets/images/NFTS/1.png";
 import nft2 from "assets/images/NFTS/2.png";
 import nft3 from "assets/images/NFTS/3.png";
@@ -25,8 +24,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.min.css";
 import "swiper/swiper.min.css";
 
-import SwiperCore, { Navigation } from "swiper";
-SwiperCore.use([Navigation]);
+import SwiperCore, { Navigation, Autoplay } from "swiper";
+SwiperCore.use([Navigation, Autoplay]);
 
 function NFTS() {
   const navigationPrevRef = useRef(null);
@@ -57,6 +56,11 @@ function NFTS() {
                 swiper.navigation.update();
               });
             }}
+            loop={true}
+            autoplay={{
+              delay: 2000,
+              disableOnInteraction: false,
+            }}
             breakpoints={{
               1000: {
                 spaceBetween: 50,
@@ -79,6 +83,7 @@ function NFTS() {
                 slidesPerView: 1,
               },
             }}
+            modules={[Autoplay]}
           >
             <SwiperSlide>
               <img src={nft1} className="w-full" alt="" />

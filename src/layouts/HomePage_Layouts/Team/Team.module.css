@@ -1,17 +1,25 @@
 .wrapper {
   background: linear-gradient(180deg, #bc87ff 0%, #91e8ff 100%);
 }
+.container-width-2 {
+  width: 90%;
+  margin: auto;
+}
+
 .cards {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 3rem 3rem;
 }
 .card {
   border: 4px solid #000000;
   border-radius: 25px;
-  padding: 18px 21px;
+  padding: 10px 10px;
   display: flex;
   flex-direction: column;
+  /* gap: 2rem 1rem; */
+    grid-template-columns: repeat(5, 1fr);
+    text-align: center;
 }
 .card > img {
   border: 3px solid #000000;
@@ -23,18 +31,26 @@
 .cardContent {
   background-color: white;
   border: 3px solid #000000;
-  padding: 10px 14px;
+  padding: 10px 5px;
   flex: 1;
 }
 
 @media (max-width: 1600px) {
+  .container-width-2 {
+    width: 90%;
+    margin: auto;
+}
   .cards {
     gap: 2rem 1rem;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
 @media (max-width: 1200px) {
+  .container-width-2 {
+    width: 90%;
+    margin: auto;
+}
   .cards {
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;

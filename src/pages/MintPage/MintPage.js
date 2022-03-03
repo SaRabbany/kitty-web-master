@@ -13,7 +13,7 @@ function MintPage() {
 
       <div className="container-wrapper py-50px text-center">
         <h1 className="fs-72px black weight-4 text-center mb-10px">
-          Public Mint
+        Mint-to-Adopt
         </h1>
         <h2 className="fs-24px black weight-4 mb-20px">Unleash the kittens</h2>
         <img src={kittens} className={`${styles.kittens} mb-30px`} alt="" />

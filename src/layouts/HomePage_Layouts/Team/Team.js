@@ -9,6 +9,9 @@ import Matrix_Mami from "assets/images/team/Matrix_Mami.png";
 import Justin_Porter from "assets/images/team/Justin_Porter.png";
 import Gnar_Char from "assets/images/team/Gnar_Char.png";
 import Gabe_Cruise from "assets/images/team/Gabe_Cruise.png";
+import Front_end_Development from "assets/images/team/Front-end-Development.png";
+import Back_end_Development from "assets/images/team/Back-end-development.png";
+import Tournament_Director from "assets/images/team/Tournament-Director.png";
 
 const Card = ({ img, heading, title, desc, bgColor, headingBgColor }) => {
   return (
@@ -63,39 +66,39 @@ function Team() {
           />
           <Card
             bgColor="#FFC897"
-            headingBgColor="#CBA3FF"
-            img={Matrix_Mami}
+            headingBgColor="#40D8FF"
+            img={Front_end_Development}
             heading="Front-end Development"
             title="Arthur Nura"
             desc="Click clack click...he’s doing dev work and he stays so slick. He’s done a thing or two so he knows a thing or two."
           />
           <Card
             bgColor="#FFBADF"
-            headingBgColor="#40D8FF"
-            img={Totally_Washed}
+            headingBgColor="#83FEC1"
+            img={Back_end_Development}
             heading="Back-end Development"
             title="Simon Jackson"
             desc="Right click saveing his way to the big leagues. International Developer a few years deep in Solidity."
           />
           <Card
             bgColor="#CBA3FF"
-            headingBgColor="#FFEFB7"
-            img={Gnar_Char}
+            headingBgColor="#40D8FF"
+            img={Tournament_Director}
             heading="Tournament Director"
             title="Cereal Killer"
             desc="High level bartender by day, tried and true gaming personality by night. Goes to work so that he may go home and go to work."
           />
           <Card
-            bgColor="#91E8FF"
-            headingBgColor="#83FEC1"
-            img={Saucing_Out}
+            bgColor="#40D8FF"
+            headingBgColor="#FFEB95"
+            img={Gnar_Char}
             heading="Streaming & Mod"
             title="Gnar Char"
             desc="Texas raised car drifter. Knows his stuff when it comes to non-porfits and knows how to pick them. Is goofy as heck. Seriously, don’t look at him."
           />
           <Card
-            bgColor="#91E8FF"
-            headingBgColor="#83FEC1"
+            bgColor="#83FEC1"
+            headingBgColor="#FFAFF2"
             img={Saucing_Out}
             heading="Streaming & Mod"
             title="Saucing Out"
@@ -111,9 +114,9 @@ function Team() {
           />
           
           <Card
-            bgColor="#FFEFB7"
-            headingBgColor="#CBA3FF"
-            img={Sigma_Kitten}
+            bgColor="#FFC897"
+            headingBgColor="#83FEC1"
+            img={Matrix_Mami}
             heading="Community Relations  "
             title="Matrix Mami"
             desc="Took the red pill. Is a streamer herself. Avid NFT hodler and relations specialist. "

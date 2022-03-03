@@ -17,7 +17,7 @@ function Hero() {
               <h1 className="fs-66px weight-4 mb-20px">
                 Unleash...the kittens
               </h1>
-            <p className="font-cream-shoes fs-40px weight-5 lh-1 text-justify hero-content" style={{'width': '450px'} }>
+            <p className="font-cream-shoes fs-40px weight-5 lh-1 text-justify hero-content" style={{ 'width':'450px' }} >
                 The kittens are about to storm the blockchain! On February 27th
                 we open access to the Kitten Clubhouse. Join the kittens and
                 enjoy the benefits of being a part of our community! 10k NFTs,

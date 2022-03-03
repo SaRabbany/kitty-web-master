@@ -15,21 +15,21 @@
   max-width: 520px;
   width: 100%;
   text-align: justify;
+
 }
+
 
 .hero_kitty {
   position: absolute;
   left: 0;
   bottom: 0;
   height: 86%;
-  min-width: 80%;
-  left: -15px;
+  min-width: 90%;
+  left: -20px;
   z-index: 5;
   object-fit: contain;
 }
-.hero-content{
-  width: 480px;
-}
+
 
 .btns {
   display: flex;

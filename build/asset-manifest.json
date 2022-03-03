@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9881ed4b.css",
-    "main.js": "/static/js/main.403bbd2f.js",
+    "main.css": "/static/css/main.7e67d91e.css",
+    "main.js": "/static/js/main.1b8a943f.js",
     "static/js/787.e6d3d21c.chunk.js": "/static/js/787.e6d3d21c.chunk.js",
     "static/media/Pawing-kitten.gif": "/static/media/Pawing-kitten.b30d0b358cd9b6bae6d0.gif",
     "static/media/6.png": "/static/media/6.04b979c00ccef9754cfa.png",
@@ -24,7 +24,7 @@
     "static/media/Saucing_Out.png": "/static/media/Saucing_Out.020d05ff4e416fa4af9f.png",
     "static/media/16.png": "/static/media/16.87d3462df1692ce3f19f.png",
     "static/media/8.png": "/static/media/8.fc0ab2a809dd9c6ea838.png",
-    "static/media/Totally_Washed.png": "/static/media/Totally_Washed.2aab95231cfa04e18c3a.png",
+    "static/media/Tournament-Director.png": "/static/media/Tournament-Director.2aab95231cfa04e18c3a.png",
     "static/media/Gnar_Char.png": "/static/media/Gnar_Char.94e2f9c4f1b82ff0be32.png",
     "static/media/Justin_Porter.png": "/static/media/Justin_Porter.c1bdf74990f014ec252c.png",
     "static/media/5.png": "/static/media/5.e4fd53676696290e03fc.png",
@@ -43,20 +43,23 @@
     "static/media/KidsDaddy.ttf": "/static/media/KidsDaddy.7df68eefcecea0392340.ttf",
     "static/media/Charity-Navigator.jpg": "/static/media/Charity-Navigator.79b22e5578bf0219150e.jpg",
     "static/media/Little-Paws.ttf": "/static/media/Little-Paws.98850a86ea91323db6b0.ttf",
+    "static/media/Back-end-development.png": "/static/media/Back-end-development.c83e6dd43c1ebb5d4486.png",
     "static/media/Merch-Logo.png": "/static/media/Merch-Logo.10b27dd82ca1c5c79fb9.png",
     "static/media/roadmap-cat.png": "/static/media/roadmap-cat.af9507da0e5d1ad137e7.png",
     "static/media/Charity-logo.png": "/static/media/Charity-logo.5a3301a3b07446a89476.png",
     "static/media/Alpha-Logo.png": "/static/media/Alpha-Logo.09982eefb87aa34af632.png",
+    "static/media/Front-end-Development.png": "/static/media/Front-end-Development.995744953ab8b0335053.png",
+    "static/media/Totally_Washed.png": "/static/media/Totally_Washed.7cd93a43c1ba094babcf.png",
     "static/media/GuideStar-Platinum.png": "/static/media/GuideStar-Platinum.55f92e055ad10be151ba.png",
     "static/media/WinterSoraya-p7yYr.ttf": "/static/media/WinterSoraya-p7yYr.ce496138248a54644fd3.ttf",
     "static/media/opensea-icon.svg": "/static/media/opensea-icon.a55b581b42b45ab0a147f743f8d8e2c7.svg",
     "index.html": "/index.html",
-    "main.9881ed4b.css.map": "/static/css/main.9881ed4b.css.map",
-    "main.403bbd2f.js.map": "/static/js/main.403bbd2f.js.map",
+    "main.7e67d91e.css.map": "/static/css/main.7e67d91e.css.map",
+    "main.1b8a943f.js.map": "/static/js/main.1b8a943f.js.map",
     "787.e6d3d21c.chunk.js.map": "/static/js/787.e6d3d21c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9881ed4b.css",
-    "static/js/main.403bbd2f.js"
+    "static/css/main.7e67d91e.css",
+    "static/js/main.1b8a943f.js"
   ]
 }

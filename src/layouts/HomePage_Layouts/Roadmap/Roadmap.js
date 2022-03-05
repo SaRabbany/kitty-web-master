@@ -46,7 +46,8 @@ function Roadmap() {
           />
           <Card
             index="3"
-            desc="Read...set...art! We give away portions of proceeds back to the community in the form of various prizes. We love contests!"
+            desc="Let there be Twitch! Kitten Clubhouse begins its serious gaming/streaming ecosystem build-out, and commences its marketing campaign to grow to our first milestone of 100K organic followers. 10% of secondary sales to be allocated.
+            "
           />
           <Card
             index="4"
@@ -65,12 +66,13 @@ function Roadmap() {
           />
           <Card
             index="6"
-            desc="Community trials commence as community members complete a series of tasks to prove their loyalty and win kitty council chairs that enable them to help guide the project alongside the devs."
+            desc="Community trials commence as community members complete a series of tasks to prove their loyalty and win the first set of Color Council chairs. Roles that enable you to help guide the project directly alongside the team.
+            "
             toRight={true}
           />
           <Card
             index="7"
-            desc="We tease the first Kitten Clubhouse roadmap expansion...oh yeah, this current roadmap has nothing on what’s coming next. We are here to stay, and are only getting started."
+            desc="PHASE 1 expansion begins: the core team begins to collaborate with holders + chairs and begin to discuss what aspects of the project we should do a serious build out on next for Roadmap V.2...the possibilites are endless."
           >
             <img src={gold_cat} className={styles.gold_cat} alt="" />
           </Card>

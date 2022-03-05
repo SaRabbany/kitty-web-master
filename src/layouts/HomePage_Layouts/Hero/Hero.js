@@ -10,6 +10,7 @@ function Hero() {
 
   return (
     <div className={styles.container}>
+      
       <div className="container-wrapper">
         <div className={styles.wrapper} >
           <div className={styles.content} >

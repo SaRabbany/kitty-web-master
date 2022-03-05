@@ -58,8 +58,9 @@
     grid-template-columns: 200px 1fr auto;
   }
 
+
   .links {
-    padding: 0 3rem;
+    padding: 0 9rem;
   }
 }
 

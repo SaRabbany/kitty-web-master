@@ -13,8 +13,9 @@
 
 .content {
   max-width: 520px;
-  width: 100%;
+  /*  width: 100%; */
   text-align: justify;
+  margin-top: 10%;
 
 }
 
@@ -25,7 +26,7 @@
   bottom: 0;
   height: 86%;
   min-width: 90%;
-  left: -20px;
+  left: -215px;
   z-index: 5;
   object-fit: contain;
 }
@@ -42,8 +43,8 @@
 
 .btns > button,
 .btns > a {
-  padding: 0 20px;
-  height: 90px;
+  padding: 0 10px;
+  height: 60px;
   display: flex;
   align-items: center;
   flex: 1;

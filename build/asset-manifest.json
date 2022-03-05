@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e67d91e.css",
-    "main.js": "/static/js/main.039869e8.js",
+    "main.css": "/static/css/main.779cd0c3.css",
+    "main.js": "/static/js/main.356ef936.js",
     "static/js/787.e6d3d21c.chunk.js": "/static/js/787.e6d3d21c.chunk.js",
-    "static/media/Pawing-kitten.gif": "/static/media/Pawing-kitten.b30d0b358cd9b6bae6d0.gif",
+    "static/media/Pawing-kitten.gif": "/static/media/Pawing-kitten.30f02f0641123554ec50.gif",
     "static/media/6.png": "/static/media/6.04b979c00ccef9754cfa.png",
     "static/media/4.png": "/static/media/4.e845c7e25ef8cbc2e18f.png",
     "static/media/Gabe_Cruise.png": "/static/media/Gabe_Cruise.6e4abc256db35f9db1fa.png",
@@ -43,23 +43,23 @@
     "static/media/KidsDaddy.ttf": "/static/media/KidsDaddy.7df68eefcecea0392340.ttf",
     "static/media/Charity-Navigator.jpg": "/static/media/Charity-Navigator.79b22e5578bf0219150e.jpg",
     "static/media/Little-Paws.ttf": "/static/media/Little-Paws.98850a86ea91323db6b0.ttf",
-    "static/media/Back-end-development.png": "/static/media/Back-end-development.c83e6dd43c1ebb5d4486.png",
+    "static/media/Back-end-development.png": "/static/media/Back-end-development.27908df2a2287df6678a.png",
     "static/media/Merch-Logo.png": "/static/media/Merch-Logo.10b27dd82ca1c5c79fb9.png",
     "static/media/roadmap-cat.png": "/static/media/roadmap-cat.af9507da0e5d1ad137e7.png",
     "static/media/Charity-logo.png": "/static/media/Charity-logo.5a3301a3b07446a89476.png",
+    "static/media/Front-end-Development.png": "/static/media/Front-end-Development.cf7fc5104ccbc2ef1acb.png",
     "static/media/Alpha-Logo.png": "/static/media/Alpha-Logo.09982eefb87aa34af632.png",
-    "static/media/Front-end-Development.png": "/static/media/Front-end-Development.995744953ab8b0335053.png",
     "static/media/Totally_Washed.png": "/static/media/Totally_Washed.7cd93a43c1ba094babcf.png",
     "static/media/GuideStar-Platinum.png": "/static/media/GuideStar-Platinum.55f92e055ad10be151ba.png",
     "static/media/WinterSoraya-p7yYr.ttf": "/static/media/WinterSoraya-p7yYr.ce496138248a54644fd3.ttf",
     "static/media/opensea-icon.svg": "/static/media/opensea-icon.a55b581b42b45ab0a147f743f8d8e2c7.svg",
     "index.html": "/index.html",
-    "main.7e67d91e.css.map": "/static/css/main.7e67d91e.css.map",
-    "main.039869e8.js.map": "/static/js/main.039869e8.js.map",
+    "main.779cd0c3.css.map": "/static/css/main.779cd0c3.css.map",
+    "main.356ef936.js.map": "/static/js/main.356ef936.js.map",
     "787.e6d3d21c.chunk.js.map": "/static/js/787.e6d3d21c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e67d91e.css",
-    "static/js/main.039869e8.js"
+    "static/css/main.779cd0c3.css",
+    "static/js/main.356ef936.js"
   ]
 }

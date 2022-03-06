@@ -12,7 +12,7 @@ const Card = ({ index, desc, toRight = false, children }) => {
     <div className={styles.card} style={{ marginLeft: toRight ? "auto" : 0 }}>
       <h1 className="fs-72px white font-cream-shoes mb-15px">Step {index}</h1>
       <div className={styles.cardContent}>
-        <p className="font-cream-shoes fs-30px weight-5">{desc}</p>
+        <p className="font-cream-shoes fs-26px weight-5">{desc}</p>
         {children}
       </div>
     </div>

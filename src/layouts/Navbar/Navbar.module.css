@@ -7,7 +7,7 @@
   z-index: 100;
 }
 .navbar {
-   height: 90px;
+   height: 75px;
   display: grid;
   grid-template-columns: 416px 1fr 220px;
   align-items: center;
@@ -41,6 +41,18 @@
 
 .mobileSocialLinks {
   display: none;
+}
+@media (min-width: 1517px) {
+  .navbar{
+    height: 90px;
+  }
+  .links{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 8rem;
+    padding-left: 8rem;
+    /* margin: auto; */
+}
 }
 
 @media (max-width: 1440px) {

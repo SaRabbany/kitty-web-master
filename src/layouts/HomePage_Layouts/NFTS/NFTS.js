@@ -58,7 +58,7 @@ function NFTS() {
             }}
             loop={true}
             autoplay={{
-              delay: 2500,
+              delay: 100,
               disableOnInteraction: false,
             }}
             breakpoints={{
